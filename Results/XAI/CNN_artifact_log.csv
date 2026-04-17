@@ -1,0 +1,7 @@
+frame,label,artifact,score
+/kaggle/working/frames/real/12__walking_outside_cafe_disgusted/frame_012.jpg,real,mouth_lip_sync,0.4652200435729848
+/kaggle/working/frames/real/05__kitchen_pan/frame_009.jpg,real,eye_region,0.14803582667634954
+/kaggle/working/frames/fake/05_17__walking_down_street_outside_angry__M3H96PDQ/frame_021.jpg,fake,mouth_lip_sync,0.3107126163596752
+/kaggle/working/frames/fake/06_12__podium_speech_happy__3K21NFNM/frame_030.jpg,fake,lighting_global,0.03265306122448979
+/kaggle/working/frames/real/06__exit_phone_room/frame_012.jpg,real,mouth_lip_sync,0.5143949296890473
+/kaggle/working/frames/real/11__exit_phone_room/frame_017.jpg,real,mouth_lip_sync,0.7666349772232125

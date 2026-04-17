@@ -1,0 +1,21 @@
+video_id,true_label,pred_label,cnn_weight,vit_weight,lstm_weight,dominant_branch,forensic_reason
+08__walk_down_hall_angry,real,real,0.4105059504508972,0.3047628104686737,0.2847312092781067,CNN,texture/boundary artifact (spatial local)
+03__talking_angry_couch,real,real,0.4197792410850525,0.3052617013454437,0.27495908737182617,CNN,texture/boundary artifact (spatial local)
+06_12__podium_speech_happy__3K21NFNM,fake,fake,0.359156996011734,0.3186955451965332,0.3221474587917328,CNN,texture/boundary artifact (spatial local)
+03_07__hugging_happy__BKLOCI1M,fake,fake,0.3897157311439514,0.31367969512939453,0.29660454392433167,CNN,texture/boundary artifact (spatial local)
+02__walking_down_street_outside_angry,real,fake,0.33713772892951965,0.3147748112678528,0.3480874300003052,LSTM,blink/expression temporal inconsistency
+04_13__walking_outside_cafe_disgusted__00T3UYOR,fake,fake,0.3491699993610382,0.32127121090888977,0.32955875992774963,CNN,texture/boundary artifact (spatial local)
+09_26__talking_against_wall__C3K20JOL,fake,fake,0.36065250635147095,0.30548569560050964,0.3338617980480194,CNN,texture/boundary artifact (spatial local)
+01__meeting_serious,real,real,0.4108995497226715,0.3652598559856415,0.22384057939052582,CNN,texture/boundary artifact (spatial local)
+03_13__meeting_serious__T3MZOI8X,fake,fake,0.36314165592193604,0.3251515328884125,0.3117067813873291,CNN,texture/boundary artifact (spatial local)
+12__walking_outside_cafe_disgusted,real,real,0.44323599338531494,0.36694666743278503,0.1898173838853836,CNN,texture/boundary artifact (spatial local)
+05__walking_outside_cafe_disgusted,real,real,0.3864504396915436,0.2956618070602417,0.31788772344589233,CNN,texture/boundary artifact (spatial local)
+15__outside_talking_still_laughing,real,real,0.4019738733768463,0.28931522369384766,0.3087109327316284,CNN,texture/boundary artifact (spatial local)
+05_17__walking_down_street_outside_angry__M3H96PDQ,fake,fake,0.40052253007888794,0.34682682156562805,0.2526506781578064,CNN,texture/boundary artifact (spatial local)
+02_09__exit_phone_room__HIH8YA82,fake,fake,0.39589664340019226,0.35142597556114197,0.25267741084098816,CNN,texture/boundary artifact (spatial local)
+09_26__walk_down_hall_angry__QSE5A0GF,fake,fake,0.369076132774353,0.3106694519519806,0.32025444507598877,CNN,texture/boundary artifact (spatial local)
+06_11__walking_outside_cafe_disgusted__MX659QU8,fake,fake,0.3639144003391266,0.3090808689594269,0.32700473070144653,CNN,texture/boundary artifact (spatial local)
+12__walking_down_street_outside_angry,real,real,0.45451319217681885,0.3484397828578949,0.19704709947109222,CNN,texture/boundary artifact (spatial local)
+06_07__kitchen_pan__NMGYPBXE,fake,fake,0.3749873638153076,0.3259162902832031,0.29909637570381165,CNN,texture/boundary artifact (spatial local)
+04_13__walking_outside_cafe_disgusted__00T3UYOR,fake,fake,0.3307023048400879,0.3237593472003937,0.34553834795951843,LSTM,blink/expression temporal inconsistency
+06_26__kitchen_pan__L5BVR5L9,fake,fake,0.37195730209350586,0.3036574423313141,0.32438528537750244,CNN,texture/boundary artifact (spatial local)
