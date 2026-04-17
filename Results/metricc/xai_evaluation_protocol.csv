@@ -1,0 +1,4 @@
+Model,Faithfulness,Stability (ECS),Comprehensibility,Temporal Faithfulness,XAI Score
+CNN,0,0.468351648,0,0,0.117087912
+ViT,-0.039111437,0.470952185,0.047345775,0,0.119796631
+Hybrid,0,0.535596903,0,0.017274355,0.138217815
